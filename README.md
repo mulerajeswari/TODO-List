@@ -45,7 +45,8 @@ Alternatively, just open index.html directly in your browser.
 
 📸 Screenshot
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d02d6f8d-9161-4b6a-bc8c-8e73fb1a30a9" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/7de4528d-854b-4ad4-914a-2520e6983395" />
+
 
 
 🧠 Tech Stack
